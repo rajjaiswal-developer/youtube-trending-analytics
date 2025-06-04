@@ -29,12 +29,7 @@ A data analytics project that explores global YouTube trending videos to underst
 📦 youtube-trending-video-analytics/
 │
 ├── cleaned_data/
-│   ├── youtube_trending_all_cleaned.csv
 │   └── youtube_trending_filtered.csv         # Filtered final dataset (~20K rows)
-│
-├── data/
-│   ├── *.csv                                 # Raw YouTube trending data by region
-│   └── *.json                                # Category metadata (e.g., IN_category_id.json)
 │
 ├── Dashboard/
 │   ├── YouTube Trending Video Analytics.pbix # Power BI Dashboard
